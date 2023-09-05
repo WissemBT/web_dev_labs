@@ -1,0 +1,28 @@
+at the age of 4 she started
+   4  -> 26
+at the age of 3 he started
+   3  -> 8
+age diff is 2
+    .4-2
+    startAg
+    
+17
+1
+16
+16+3
+2+3
+
+10
+815
+323
+  14 10
+   4 1
+    
+   Age dif 2
+   2 3 4 9 
+   0 1 2 3 7
+ 
+diff = 2
+9(4+5)
+3
+seule iteration => diff - 

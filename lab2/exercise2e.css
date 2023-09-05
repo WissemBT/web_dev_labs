@@ -1,0 +1,16 @@
+#dd1 {
+    border: solid 1px black; padding: 9px ; 
+ }
+ #dd2 img {
+     float: left; margin : 8px;
+ }
+ #dd3 {
+     background-color:slategrey; margin: 10px;
+ }
+ .cls_dd3 {
+    position : fixed;
+    top : 124 px;
+    left : 124 px;
+    width : 435px;
+    height : 435px;
+ }
